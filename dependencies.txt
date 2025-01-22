@@ -13,3 +13,11 @@ neovim
 xclip
 fcitx5-im
 fcitx5-bamboo
+thunar
+gvfs
+xarchiver
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+ristretto
+tumbler
