@@ -11,3 +11,5 @@ ttf-victor-mono-nerd
 tmux
 neovim
 xclip
+fcitx5-im
+fcitx5-bamboo
